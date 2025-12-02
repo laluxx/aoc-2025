@@ -1,3 +1,6 @@
+;; NOTE This problem has been solved using Glemax: https://github.com/laluxx/glemax
+;; And the scheme it has inside Guile scheme: https://www.gnu.org/software/guile/
+
 (define start 50)
 
 (define (parse-move move)
